@@ -1,4 +1,4 @@
-let students =[{id: 1, name: "Jack", course: "React", grade: "A", city: "London" },
+let studentsData =[{id: 1, name: "Jack", course: "React", grade: "A", city: "London" },
 { id: 2, name: "Tim", course: "Node", grade: "A", city: "Paris" },
 { id: 3, name: "Anna", course: "JS", grade: "B", city: "London" },
 { id: 4, name: "Bob", course: "Angular", grade: "B", city: "Mumbai" },
@@ -21,4 +21,4 @@ let students =[{id: 1, name: "Jack", course: "React", grade: "A", city: "London"
 { id: 21, name: "Joanna", course: "JS", grade: "A", city: "Paris" },
 { id: 22, name: "Pam", course: "JS", grade: "B", city: "Paris" },
 ]
-module.exports.studentsData=students
+module.exports.studentsData=studentsData
