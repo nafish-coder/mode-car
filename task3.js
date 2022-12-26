@@ -16,7 +16,7 @@ next();
 
 const port = 2410;
 app.listen(port, () => console.log('Node app listening on port ',port));
-let { studentsData } = require("./studentData.js");
+let { studentsData } = require("./studentdata.js");
 
 let fs = require("fs"); 
 let fname = "students.json";
